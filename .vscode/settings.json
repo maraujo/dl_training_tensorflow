@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/matheus_disk/miniconda/bin/python"
+    "python.pythonPath": "/matheus_disk/miniconda/bin/python",
+    "python.analysis.cachingLevel": "Library"
 }
